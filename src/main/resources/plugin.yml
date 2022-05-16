@@ -1,0 +1,7 @@
+name: FirstPaperPlugin
+version: '${project.version}'
+main: me.seanduffie.firstpaperplugin.FirstPaperPlugin
+api-version: 1.18
+prefix: TESTING
+authors: [ SeanDuffie ]
+description: This is a test of basic Paper plugin features
